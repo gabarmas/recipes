@@ -6,11 +6,11 @@ categories: main
 ---
 
 # Ingredients
- - Duck
- - Oranges, like 3
- - Salt
+ - Duck. Is like a chicken, but with a longer beak, different color.
+ - Oranges, like 3. Tend to be color orange.
+ - Salt. Don't confuse with sugar.
  - Oil
- - Heat
+ - Heat. It can't be grabbed.
 
 # Cooking steps
 Cook a full-size complete duck, with real, not from concentrate, oranges.
